@@ -1,4 +1,4 @@
-package tech.nermindedovic.bankprocessor;
+package tech.nermindedovic.transformer_streams;
 
 
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package tech.nermindedovic.bankprocessor.pojos;
+package tech.nermindedovic.transformer_streams.pojos;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import lombok.AllArgsConstructor;

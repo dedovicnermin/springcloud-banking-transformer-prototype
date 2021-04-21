@@ -1,4 +1,4 @@
-package tech.nermindedovic.bankprocessor.kafka;
+package tech.nermindedovic.transformer_streams.kafka;
 
 
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -8,7 +8,7 @@ import org.apache.kafka.streams.kstream.KStream;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import tech.nermindedovic.bankprocessor.pojos.BalanceMessage;
+import tech.nermindedovic.transformer_streams.pojos.BalanceMessage;
 
 import java.util.function.Function;
 

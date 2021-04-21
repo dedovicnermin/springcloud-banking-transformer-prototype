@@ -1,10 +1,10 @@
-package tech.nermindedovic.bankprocessor.kafka.config;
+package tech.nermindedovic.transformer_streams.kafka.config;
 
 import org.apache.kafka.common.serialization.Serde;
 import org.apache.kafka.common.serialization.Serdes;
 import org.springframework.context.annotation.Bean;
-import tech.nermindedovic.bankprocessor.pojos.BalanceMessage;
-import tech.nermindedovic.bankprocessor.pojos.TransferMessage;
+import tech.nermindedovic.transformer_streams.pojos.BalanceMessage;
+import tech.nermindedovic.transformer_streams.pojos.TransferMessage;
 
 
 public final class CustomSerdes {

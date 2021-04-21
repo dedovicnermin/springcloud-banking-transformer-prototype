@@ -1,4 +1,4 @@
-package tech.nermindedovic.bankprocessor.kafka.config;
+package tech.nermindedovic.transformer_streams.kafka.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.kafka.common.errors.SerializationException;
